@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham1R
-- 🌱 I’m currently learning python programming
+- 🌱 I’m currently python programming
 - 📫 How to reach me rautraoshubham@gmail.com
 
 <!---
